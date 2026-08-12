@@ -6,8 +6,8 @@
 
 /************* Configurations Start *************/
 // Gemini Configuration
-let apiKey = "INSERT YOUR API KEY HERE"; // Replace with your Gemini API Key
-let modelName = "gemini-3.5-flash"; // Recommended Flash model identifier
+let apiKey = " "; // Replace with your Gemini API Key
+let modelName = "gemini-3.5-flash-lite"; // Recommended Flash model identifier
 
 // Full text settings
 let maxFullTextLength = 12000;
